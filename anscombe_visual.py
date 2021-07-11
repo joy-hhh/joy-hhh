@@ -42,4 +42,3 @@ fig.tight_layout()   # 겹치는 이름과 숫자 조절
 plt.show()
 
 
-

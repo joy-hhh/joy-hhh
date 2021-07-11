@@ -1,4 +1,4 @@
-# 갭마인더 데이터셋
+# 갭마인더 데이터셋 
 import gapminder
 df = gapminder.gapminder
 
