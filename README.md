@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joy-hhh
-- 👀 I’m interested in accounting, Excel, R, Python, Go.
+- 👀 I’m interested in accounting, Excel, R, Python, Julia, Go.
 - 🌱 I’m currently learning R, Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joyhhh@outlook.kr
